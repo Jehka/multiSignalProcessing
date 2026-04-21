@@ -1,0 +1,13 @@
+# Icarus Verilog compiled binaries
+*.out
+*.vvp
+
+# GTKWave simulation waveforms
+*.vcd
+
+# Vivado generated files (for later)
+*.jou
+*.log
+*.pb
+*.wdb
+.Xil/
